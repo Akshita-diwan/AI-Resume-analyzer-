@@ -1,0 +1,15 @@
+print("===AI RESUME ANALYZER===")
+
+candidate_name=input("enter your name: ")
+candidate_age= int(input("Enter your age: "))
+candidate_college=input("Enter your college branch: ")
+candidate_branch = input("Enter your branch: ") 
+candidate_cgpa=float(input("Enter your cgpa: "))
+candidate_goal= input("enter your goal: ")
+
+print("name: ",candidate_name)
+print("age:", candidate_age)
+print("college: ",candidate_college)
+print("branch: ",candidate_branch)
+print("cgpa: ",candidate_cgpa)
+print("goal: ", candidate_goal)
